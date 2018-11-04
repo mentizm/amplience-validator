@@ -11,5 +11,3 @@ var vapp = new Vue({
   components: { App },
   template: "<App/>"
 });
-
-console.log("adsasd");
